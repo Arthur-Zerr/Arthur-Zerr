@@ -51,6 +51,7 @@ var ArthurZerr = new Person {
     <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white">
     <img src="https://img.shields.io/badge/Platform IO-%23f67b00.svg?style=for-the-badge">
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=Cplusplus&logoColor=white">
+    <img src="https://img.shields.io/badge/OpenGL-%235586A4.svg?style=for-the-badge&logo=OpenGL&logoColor=white">
 </p>
 
 <!--
