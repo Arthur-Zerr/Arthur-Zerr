@@ -10,7 +10,7 @@ var ArthurZerr = new Person {
 
 <h3>🔭 I’m currently working with:</h3>
 
-<h2 align="center"> Backend </h2>
+<h2 align="center"> Mostly backend </h2>
 <p align="center">
     <img src="https://img.shields.io/badge/.Net Core-%23512BD4.svg?style=for-the-badge&logo=.net">
     <img src="https://img.shields.io/badge/ASP.NET-%23512BD4.svg?style=for-the-badge"> 
@@ -48,10 +48,11 @@ var ArthurZerr = new Person {
 
 <h3> 🌱 I’m currently learning:</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white"> -->
     <img src="https://img.shields.io/badge/Platform IO-%23f67b00.svg?style=for-the-badge">
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=Cplusplus&logoColor=white">
     <img src="https://img.shields.io/badge/OpenGL-%235586A4.svg?style=for-the-badge&logo=OpenGL&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-%233776AC .svg?style=for-the-badge&logo=Python&logoColor=white">
 </p>
 
 <!--
