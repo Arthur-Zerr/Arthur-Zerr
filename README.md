@@ -3,7 +3,6 @@
 ```csharp
 var ArthurZerr = new Person {
     title = "Software Developer",
-    city = "Rüsselsheim am Main, Hessen",
     country = "Germany"
 };
 ```
