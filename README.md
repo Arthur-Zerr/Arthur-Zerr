@@ -43,15 +43,20 @@ var ArthurZerr = new Person {
     <img src="https://img.shields.io/badge/Swift-%23F05138.svg?style=for-the-badge&logo=Swift&logoColor=white">
 </p>
 
+<h2 align="center"> ML / AI </h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-%233776AC.svg?style=for-the-badge&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/PyTorch-%233776AC.svg?style=for-the-badge&logo=PyTorch">
+</p>
+
 <hr>
 
 <h3> 🌱 I’m currently learning:</h3>
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white"> -->
-    <img src="https://img.shields.io/badge/Platform IO-%23f67b00.svg?style=for-the-badge">
+   <!--  <img src="https://img.shields.io/badge/Platform IO-%23f67b00.svg?style=for-the-badge"> -->
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=Cplusplus&logoColor=white">
     <img src="https://img.shields.io/badge/OpenGL-%235586A4.svg?style=for-the-badge&logo=OpenGL&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-%233776AC .svg?style=for-the-badge&logo=Python&logoColor=white">
 </p>
 
 <!--
